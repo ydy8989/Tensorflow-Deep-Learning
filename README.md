@@ -1,5 +1,7 @@
-<center><img src="./img/logo.png"></center>
-
+<p align="center">
+  <img src="./img/logo.png" width=500>
+</p>
+<hr>
 
 # Keras-Deep-Learning
 Keras study materials and the model implementation codes.
