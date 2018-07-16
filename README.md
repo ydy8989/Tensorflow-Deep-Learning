@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./img/tf.png" width=500>
+  <img src="./img/tf.png" width=600>
 </p>
-<hr>
 
 # Tensorflow-Deep-Learning
 Tensorflow study materials and the model implementation codes.
