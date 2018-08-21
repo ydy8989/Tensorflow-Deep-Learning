@@ -2,18 +2,19 @@
 ##### Deep Convolutional GAN
 
 * [DCGAN](https://arxiv.org/pdf/1511.06434.pdf) with Fashion MNIST data.
-* GAN.py should be imported at the same path.
-* [Reference](https://github.com/tensorpack/tensorpack/blob/master/examples/GAN/DCGAN.py)
-
-<img src="./img/DCGAN_archi.png" width="350"> 
+* GAN.py should be located at the same path.
+<p align="center">
+  <img src="./img/DCGAN_archi.png" width="700">
+</p>
 
 ## Result
-<img src="./img/origin.png" width="350"> 
+<img src="./img/dcgan_result.png" width="700"> 
 
-<img src="./img/gen.png" width="350"> 
-
-## Environment
+## Environments
 * Ubuntu 16.08
 * GTX 1080-ti * 4
 * Tensorflow 1.10.0
 * Tensorpack 0.8.8
+
+## Reference
+* Tensorpack [Github](https://github.com/tensorpack/tensorpack/blob/master/examples/GAN/DCGAN.py)
