@@ -7,15 +7,19 @@
   <img src="./img/DCGAN_archi.png" width="800">
 </p>
 
-## Result
-<img src="./img/dcgan_result.png" width="700"> 
-
 ## Environments
 * <b>Ubuntu</b>: 16.08
 * <b>GPU</b>: GTX 1080-ti * 4
 * <b>Python</b>: 3.6
 * <b>Tensorflow</b>: 1.10.0
 * <b>Tensorpack</b>: 0.8.8
+
+## Results
+<p align="center">
+  <img src="./img/dcgan_result.png" width="700"> 
+<p>
+  
+
 
 ## Reference
 * Tensorpack [Github](https://github.com/tensorpack/tensorpack/blob/master/examples/GAN/DCGAN.py)
