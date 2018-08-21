@@ -15,6 +15,8 @@
 * <b>Tensorpack</b>: 0.8.8
 
 ## Results
+* After 100 epochs,
+
 <p align="center">
   <img src="./img/dcgan_result.png" width="700"> 
 <p>
