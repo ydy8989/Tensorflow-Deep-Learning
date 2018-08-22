@@ -17,7 +17,7 @@
 ## Results
 * **After 100 epochs**,
 <p align="center">
-  <img src="./img/dcgan_result.png" width="700"> 
+  <img src="./img/dcgan_result.png" width="500"> 
 <p>
   
 
